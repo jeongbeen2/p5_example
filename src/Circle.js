@@ -5,7 +5,7 @@ export default function Circle() {
   let r, g, b, a, X, Y, x, y;
   let str = "abcdefghijklmnopqrstuvwxyz";
   function setup(p5) {
-    p5.createCanvas(500, 500, 5000);
+    p5.createCanvas(500, 500);
   }
 
   function draw(p5) {

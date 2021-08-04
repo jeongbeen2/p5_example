@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <main className="box">
-        <h4 className="typing">Color Of My Typing</h4>
+        <h4 className="typing">Color Of Your Sound!</h4>
         <Circle />
       </main>
     </>
